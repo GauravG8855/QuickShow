@@ -5,7 +5,7 @@ import BlurCircle from "../components/BlurCircle"
 import timeFormat from "../lib/timeFormat"
 import dateFormat from "../lib/dateFormat"
 import { BusFront } from "lucide-react"
-import { useAppContext } from "../context/appContext"
+import { useAppContext } from "../context/AppContext"
 import { Link } from "react-router-dom"
 
 const MyBookings = () => {
